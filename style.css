@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -18,7 +17,16 @@ body {
   /* background-color: #60b347; */
 }
 
+.gameover {
+  background: radial-gradient(#450303, black);
+}
+
+.gamewin {
+  background: radial-gradient(#23a708, rgb(2, 75, 5));
+}
+
 /* LAYOUT */
+
 header {
   position: relative;
   height: 35vh;
@@ -46,6 +54,7 @@ main {
 }
 
 /* ELEMENTS STYLE */
+
 h1 {
   font-size: 4rem;
   text-align: center;
