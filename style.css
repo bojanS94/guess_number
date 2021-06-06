@@ -60,7 +60,17 @@ h1 {
   text-align: center;
   position: absolute;
   width: 100%;
-  top: 52%;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h2 {
+  font-size: 3rem;
+  text-align: center;
+  position: absolute;
+  width: 100%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
