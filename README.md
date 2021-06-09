@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojans94&label=Profile%20views&color=0e75b6&style=flat" alt="bojans94" /> </p>
 
-Live game is [here](https://numberguess-game.netlify.app/)
+Live game is [here](https://numberguess-game.netlify.app/){target="_blank"}
 
 
 <h3 align="left">Languages and Tools:</h3>
