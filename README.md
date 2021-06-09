@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bojans94&label=Profile%20views&color=0e75b6&style=flat" alt="bojans94" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=bojans94" alt="bojans94" /></a> </p>
+Live game is [here](https://numberguess-game.netlify.app/)
 
 
 <h3 align="left">Languages and Tools:</h3>
